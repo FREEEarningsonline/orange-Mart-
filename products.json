@@ -1,0 +1,1042 @@
+{
+  "categories": [
+    {
+      "name": "Watches",
+      "image": "images/product-1.jpg"
+    },
+    {
+      "name": "Accessories",
+      "image": "images/product-11.jpg"
+    },
+    {
+      "name": "Health & Beauty",
+      "image": "images/product-21.jpg"
+    },
+    {
+      "name": "Car Gadgets",
+      "image": "images/product-31.jpg"
+    },
+    {
+      "name": "Home & Kitchen",
+      "image": "images/product-41.jpg"
+    },
+    {
+      "name": "Smart Gadgets",
+      "image": "images/product-51.jpg"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Classic Smart Watch",
+      "category": "Watches",
+      "price": 2850,
+      "old": 3990,
+      "rating": 4.5,
+      "img": "images/product-1.jpg",
+      "localImage": "images/product-1.jpg",
+      "fallbackImg": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=700&q=85",
+      "desc": "Classic Smart Watch from our Watches collection. Please check the selected options before placing your order.",
+      "colors": [
+        "Black",
+        "Silver",
+        "Blue"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Sport Digital Watch",
+      "category": "Watches",
+      "price": 3450,
+      "old": 4500,
+      "rating": 4.6,
+      "img": "images/product-2.jpg",
+      "localImage": "images/product-2.jpg",
+      "fallbackImg": "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?auto=format&fit=crop&w=700&q=85",
+      "desc": "Sport Digital Watch from our Watches collection. Please check the selected options before placing your order.",
+      "colors": [
+        "Black",
+        "Blue",
+        "Red"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Minimal Silver Watch",
+      "category": "Watches",
+      "price": 4200,
+      "old": 5500,
+      "rating": 4.7,
+      "img": "images/product-3.jpg",
+      "localImage": "images/product-3.jpg",
+      "fallbackImg": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?auto=format&fit=crop&w=700&q=85",
+      "desc": "Minimal Silver Watch from our Watches collection. Please check the selected options before placing your order."
+    },
+    {
+      "id": 4,
+      "name": "Everyday Black Watch",
+      "category": "Watches",
+      "price": 2600,
+      "old": 3400,
+      "rating": 4.8,
+      "img": "images/product-4.jpg",
+      "localImage": "images/product-4.jpg",
+      "fallbackImg": "https://images.unsplash.com/photo-1524592094714-0f0654e20314?auto=format&fit=crop&w=700&q=85",
+      "desc": "Everyday Black Watch from our Watches collection. Please check the selected options before placing your order."
+    },
+    {
+      "id": 5,
+      "name": "Premium Chronograph Watch",
+      "category": "Watches",
+      "price": 5200,
+      "old": 6800,
+      "rating": 4.9,
+      "img": "images/product-5.jpg",
+      "localImage": "images/product-5.jpg",
+      "fallbackImg": "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?auto=format&fit=crop&w=700&q=85",
+      "desc": "Premium Chronograph Watch from our Watches collection. Please check the selected options before placing your order."
+    },
+    {
+      "id": 6,
+      "name": "Classic Leather Watch",
+      "category": "Watches",
+      "price": 3900,
+      "old": 4900,
+      "rating": 4.4,
+      "img": "images/product-6.jpg",
+      "localImage": "images/product-6.jpg",
+      "fallbackImg": "https://images.unsplash.com/photo-1434056886845-dac89ffe9b56?auto=format&fit=crop&w=700&q=85",
+      "desc": "Classic Leather Watch from our Watches collection. Please check the selected options before placing your order."
+    },
+    {
+      "id": 7,
+      "name": "Modern Blue Watch",
+      "category": "Watches",
+      "price": 3150,
+      "old": 4200,
+      "rating": 4.5,
+      "img": "images/product-7.jpg",
+      "localImage": "images/product-7.jpg",
+      "fallbackImg": "https://images.unsplash.com/photo-1508057198894-247b23fe5ade?auto=format&fit=crop&w=700&q=85",
+      "desc": "Modern Blue Watch from our Watches collection. Please check the selected options before placing your order."
+    },
+    {
+      "id": 8,
+      "name": "Elegant Ladies Watch",
+      "category": "Watches",
+      "price": 2950,
+      "old": 3900,
+      "rating": 4.6,
+      "img": "images/product-8.jpg",
+      "localImage": "images/product-8.jpg",
+      "fallbackImg": "https://images.unsplash.com/photo-1547996160-81dfa63595aa?auto=format&fit=crop&w=700&q=85",
+      "desc": "Elegant Ladies Watch from our Watches collection. Please check the selected options before placing your order.",
+      "colors": [
+        "Gold",
+        "Rose Gold",
+        "Silver"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Outdoor Sports Watch",
+      "category": "Watches",
+      "price": 3750,
+      "old": 4800,
+      "rating": 4.7,
+      "img": "images/product-9.jpg",
+      "localImage": "images/product-9.jpg",
+      "fallbackImg": "https://images.unsplash.com/photo-1510017803434-a899398421b3?auto=format&fit=crop&w=700&q=85",
+      "desc": "Outdoor Sports Watch from our Watches collection. Please check the selected options before placing your order."
+    },
+    {
+      "id": 10,
+      "name": "Luxury Style Watch",
+      "category": "Watches",
+      "price": 6100,
+      "old": 7900,
+      "rating": 4.8,
+      "img": "images/product-10.jpg",
+      "localImage": "images/product-10.jpg",
+      "fallbackImg": "https://images.unsplash.com/photo-1526045431048-f857369baa09?auto=format&fit=crop&w=700&q=85",
+      "desc": "Luxury Style Watch from our Watches collection. Please check the selected options before placing your order."
+    },
+    {
+      "id": 11,
+      "name": "Premium Wireless Headphones",
+      "category": "Accessories",
+      "price": 4200,
+      "old": 5500,
+      "rating": 4.9,
+      "img": "images/product-11.jpg",
+      "localImage": "images/product-11.jpg",
+      "fallbackImg": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=700&q=85",
+      "desc": "Premium Wireless Headphones from our Accessories collection. Please check the selected options before placing your order."
+    },
+    {
+      "id": 12,
+      "name": "Everyday Sunglasses",
+      "category": "Accessories",
+      "price": 1750,
+      "old": 2300,
+      "rating": 4.4,
+      "img": "images/product-12.jpg",
+      "localImage": "images/product-12.jpg",
+      "fallbackImg": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=700&q=85",
+      "desc": "Everyday Sunglasses from our Accessories collection. Please check the selected options before placing your order.",
+      "colors": [
+        "Black",
+        "Brown",
+        "Gold"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Wireless Earbuds",
+      "category": "Accessories",
+      "price": 2500,
+      "old": 3200,
+      "rating": 4.5,
+      "img": "images/product-13.jpg",
+      "localImage": "images/product-13.jpg",
+      "fallbackImg": "https://images.unsplash.com/photo-1606220945770-b5b6c2c55bf1?auto=format&fit=crop&w=700&q=85",
+      "desc": "Wireless Earbuds from our Accessories collection. Please check the selected options before placing your order."
+    },
+    {
+      "id": 14,
+      "name": "Travel Backpack",
+      "category": "Accessories",
+      "price": 3300,
+      "old": 4300,
+      "rating": 4.6,
+      "img": "images/product-14.jpg",
+      "localImage": "images/product-14.jpg",
+      "fallbackImg": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=700&q=85",
+      "desc": "Travel Backpack from our Accessories collection. Please check the selected options before placing your order.",
+      "colors": [
+        "Black",
+        "Navy Blue",
+        "Olive"
+      ],
+      "sizes": [
+        "Small",
+        "Medium",
+        "Large"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Fashion Handbag",
+      "category": "Accessories",
+      "price": 2900,
+      "old": 3800,
+      "rating": 4.7,
+      "img": "images/product-15.jpg",
+      "localImage": "images/product-15.jpg",
+      "fallbackImg": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=700&q=85",
+      "desc": "Fashion Handbag from our Accessories collection. Please check the selected options before placing your order.",
+      "colors": [
+        "Black",
+        "Brown",
+        "Beige"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Classic Wallet",
+      "category": "Accessories",
+      "price": 1250,
+      "old": 1700,
+      "rating": 4.8,
+      "img": "images/product-16.jpg",
+      "localImage": "images/product-16.jpg",
+      "fallbackImg": "https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&w=700&q=85",
+      "desc": "Classic Wallet from our Accessories collection. Please check the selected options before placing your order."
+    },
+    {
+      "id": 17,
+      "name": "Phone Protective Case",
+      "category": "Accessories",
+      "price": 850,
+      "old": 1200,
+      "rating": 4.9,
+      "img": "images/product-17.jpg",
+      "localImage": "images/product-17.jpg",
+      "fallbackImg": "https://images.unsplash.com/photo-1601593346740-925612772716?auto=format&fit=crop&w=700&q=85",
+      "desc": "Phone Protective Case from our Accessories collection. Please check the selected options before placing your order.",
+      "colors": [
+        "Black",
+        "Clear",
+        "Blue"
+      ],
+      "sizes": [
+        "iPhone",
+        "Samsung",
+        "Other"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Bluetooth Speaker",
+      "category": "Accessories",
+      "price": 2800,
+      "old": 3600,
+      "rating": 4.4,
+      "img": "images/product-18.jpg",
+      "localImage": "images/product-18.jpg",
+      "fallbackImg": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=700&q=85",
+      "desc": "Bluetooth Speaker from our Accessories collection. Please check the selected options before placing your order."
+    },
+    {
+      "id": 19,
+      "name": "Everyday Cap",
+      "category": "Accessories",
+      "price": 950,
+      "old": 1300,
+      "rating": 4.5,
+      "img": "images/product-19.jpg",
+      "localImage": "images/product-19.jpg",
+      "fallbackImg": "https://images.unsplash.com/photo-1515816003229-3d9a71d8b7f1?auto=format&fit=crop&w=700&q=85",
+      "desc": "Everyday Cap from our Accessories collection. Please check the selected options before placing your order.",
+      "colors": [
+        "Black",
+        "White",
+        "Navy Blue"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Travel Organizer",
+      "category": "Accessories",
+      "price": 1450,
+      "old": 1900,
+      "rating": 4.6,
+      "img": "images/product-20.jpg",
+      "localImage": "images/product-20.jpg",
+      "fallbackImg": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=700&q=85",
+      "desc": "Travel Organizer from our Accessories collection. Please check the selected options before placing your order."
+    },
+    {
+      "id": 21,
+      "name": "Skincare Essentials Set",
+      "category": "Health & Beauty",
+      "price": 1950,
+      "old": 2600,
+      "rating": 4.7,
+      "img": "images/product-21.jpg",
+      "localImage": "images/product-21.jpg",
+      "fallbackImg": "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?auto=format&fit=crop&w=700&q=85",
+      "desc": "Skincare Essentials Set from our Health & Beauty collection. Please check the selected options before placing your order."
+    },
+    {
+      "id": 22,
+      "name": "Facial Cleanser",
+      "category": "Health & Beauty",
+      "price": 1150,
+      "old": 1500,
+      "rating": 4.8,
+      "img": "images/product-22.jpg",
+      "localImage": "images/product-22.jpg",
+      "fallbackImg": "https://images.unsplash.com/photo-1601049541289-9b1b7bbbfe19?auto=format&fit=crop&w=700&q=85",
+      "desc": "Facial Cleanser from our Health & Beauty collection. Please check the selected options before placing your order."
+    },
+    {
+      "id": 23,
+      "name": "Moisturizing Cream",
+      "category": "Health & Beauty",
+      "price": 1350,
+      "old": 1800,
+      "rating": 4.9,
+      "img": "images/product-23.jpg",
+      "localImage": "images/product-23.jpg",
+      "fallbackImg": "https://images.unsplash.com/photo-1556229010-6c3f2c9ca5f8?auto=format&fit=crop&w=700&q=85",
+      "desc": "Moisturizing Cream from our Health & Beauty collection. Please check the selected options before placing your order."
+    },
+    {
+      "id": 24,
+      "name": "Hair Care Shampoo",
+      "category": "Health & Beauty",
+      "price": 950,
+      "old": 1250,
+      "rating": 4.4,
+      "img": "images/product-24.jpg",
+      "localImage": "images/product-24.jpg",
+      "fallbackImg": "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?auto=format&fit=crop&w=700&q=85",
+      "desc": "Hair Care Shampoo from our Health & Beauty collection. Please check the selected options before placing your order."
+    },
+    {
+      "id": 25,
+      "name": "Body Lotion",
+      "category": "Health & Beauty",
+      "price": 1200,
+      "old": 1600,
+      "rating": 4.5,
+      "img": "images/product-25.jpg",
+      "localImage": "images/product-25.jpg",
+      "fallbackImg": "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?auto=format&fit=crop&w=700&q=85",
+      "desc": "Body Lotion from our Health & Beauty collection. Please check the selected options before placing your order."
+    },
+    {
+      "id": 26,
+      "name": "Perfume Gift Set",
+      "category": "Health & Beauty",
+      "price": 2400,
+      "old": 3100,
+      "rating": 4.6,
+      "img": "images/product-26.jpg",
+      "localImage": "images/product-26.jpg",
+      "fallbackImg": "https://images.unsplash.com/photo-1594035910387-fea47794261f?auto=format&fit=crop&w=700&q=85",
+      "desc": "Perfume Gift Set from our Health & Beauty collection. Please check the selected options before placing your order."
+    },
+    {
+      "id": 27,
+      "name": "Makeup Brush Set",
+      "category": "Health & Beauty",
+      "price": 1450,
+      "old": 1900,
+      "rating": 4.7,
+      "img": "images/product-27.jpg",
+      "localImage": "images/product-27.jpg",
+      "fallbackImg": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=700&q=85",
+      "desc": "Makeup Brush Set from our Health & Beauty collection. Please check the selected options before placing your order.",
+      "colors": [
+        "Pink",
+        "Black",
+        "Purple"
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Beauty Serum",
+      "category": "Health & Beauty",
+      "price": 1650,
+      "old": 2200,
+      "rating": 4.8,
+      "img": "images/product-28.jpg",
+      "localImage": "images/product-28.jpg",
+      "fallbackImg": "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?auto=format&fit=crop&w=700&q=85",
+      "desc": "Beauty Serum from our Health & Beauty collection. Please check the selected options before placing your order."
+    },
+    {
+      "id": 29,
+      "name": "Personal Care Kit",
+      "category": "Health & Beauty",
+      "price": 2100,
+      "old": 2750,
+      "rating": 4.9,
+      "img": "images/product-29.jpg",
+      "localImage": "images/product-29.jpg",
+      "fallbackImg": "https://images.unsplash.com/photo-1556229010-6c3f2c9ca5f8?auto=format&fit=crop&w=700&q=85",
+      "desc": "Personal Care Kit from our Health & Beauty collection. Please check the selected options before placing your order."
+    },
+    {
+      "id": 30,
+      "name": "Cosmetic Travel Bag",
+      "category": "Health & Beauty",
+      "price": 1250,
+      "old": 1650,
+      "rating": 4.4,
+      "img": "images/product-30.jpg",
+      "localImage": "images/product-30.jpg",
+      "fallbackImg": "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?auto=format&fit=crop&w=700&q=85",
+      "desc": "Cosmetic Travel Bag from our Health & Beauty collection. Please check the selected options before placing your order."
+    },
+    {
+      "id": 31,
+      "name": "Car Phone Holder",
+      "category": "Car Gadgets",
+      "price": 950,
+      "old": 1300,
+      "rating": 4.5,
+      "img": "images/product-31.jpg",
+      "localImage": "images/product-31.jpg",
+      "fallbackImg": "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?auto=format&fit=crop&w=700&q=85",
+      "desc": "Car Phone Holder from our Car Gadgets collection. Please check the selected options before placing your order."
+    },
+    {
+      "id": 32,
+      "name": "Car Charger Adapter",
+      "category": "Car Gadgets",
+      "price": 850,
+      "old": 1150,
+      "rating": 4.6,
+      "img": "images/product-32.jpg",
+      "localImage": "images/product-32.jpg",
+      "fallbackImg": "https://images.unsplash.com/photo-1493238792000-8113da705763?auto=format&fit=crop&w=700&q=85",
+      "desc": "Car Charger Adapter from our Car Gadgets collection. Please check the selected options before placing your order.",
+      "colors": [
+        "Black",
+        "White"
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Car Interior LED Lights",
+      "category": "Car Gadgets",
+      "price": 1450,
+      "old": 1900,
+      "rating": 4.7,
+      "img": "images/product-33.jpg",
+      "localImage": "images/product-33.jpg",
+      "fallbackImg": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=700&q=85",
+      "desc": "Car Interior LED Lights from our Car Gadgets collection. Please check the selected options before placing your order."
+    },
+    {
+      "id": 34,
+      "name": "Car Dashboard Camera",
+      "category": "Car Gadgets",
+      "price": 5200,
+      "old": 6800,
+      "rating": 4.8,
+      "img": "images/product-34.jpg",
+      "localImage": "images/product-34.jpg",
+      "fallbackImg": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&w=700&q=85",
+      "desc": "Car Dashboard Camera from our Car Gadgets collection. Please check the selected options before placing your order."
+    },
+    {
+      "id": 35,
+      "name": "Portable Tyre Inflator",
+      "category": "Car Gadgets",
+      "price": 3900,
+      "old": 5100,
+      "rating": 4.9,
+      "img": "images/product-35.jpg",
+      "localImage": "images/product-35.jpg",
+      "fallbackImg": "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?auto=format&fit=crop&w=700&q=85",
+      "desc": "Portable Tyre Inflator from our Car Gadgets collection. Please check the selected options before placing your order."
+    },
+    {
+      "id": 36,
+      "name": "Car Cleaning Kit",
+      "category": "Car Gadgets",
+      "price": 1750,
+      "old": 2300,
+      "rating": 4.4,
+      "img": "images/product-36.jpg",
+      "localImage": "images/product-36.jpg",
+      "fallbackImg": "https://images.unsplash.com/photo-1507136566006-cfc505b114fc?auto=format&fit=crop&w=700&q=85",
+      "desc": "Car Cleaning Kit from our Car Gadgets collection. Please check the selected options before placing your order."
+    },
+    {
+      "id": 37,
+      "name": "Bluetooth FM Transmitter",
+      "category": "Car Gadgets",
+      "price": 1250,
+      "old": 1650,
+      "rating": 4.5,
+      "img": "images/product-37.jpg",
+      "localImage": "images/product-37.jpg",
+      "fallbackImg": "https://images.unsplash.com/photo-1493238792000-8113da705763?auto=format&fit=crop&w=700&q=85",
+      "desc": "Bluetooth FM Transmitter from our Car Gadgets collection. Please check the selected options before placing your order."
+    },
+    {
+      "id": 38,
+      "name": "Car Seat Organizer",
+      "category": "Car Gadgets",
+      "price": 1350,
+      "old": 1800,
+      "rating": 4.6,
+      "img": "images/product-38.jpg",
+      "localImage": "images/product-38.jpg",
+      "fallbackImg": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=700&q=85",
+      "desc": "Car Seat Organizer from our Car Gadgets collection. Please check the selected options before placing your order."
+    },
+    {
+      "id": 39,
+      "name": "Emergency LED Torch",
+      "category": "Car Gadgets",
+      "price": 1100,
+      "old": 1450,
+      "rating": 4.7,
+      "img": "images/product-39.jpg",
+      "localImage": "images/product-39.jpg",
+      "fallbackImg": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=700&q=85",
+      "desc": "Emergency LED Torch from our Car Gadgets collection. Please check the selected options before placing your order."
+    },
+    {
+      "id": 40,
+      "name": "Car Vacuum Cleaner",
+      "category": "Car Gadgets",
+      "price": 2850,
+      "old": 3700,
+      "rating": 4.8,
+      "img": "images/product-40.jpg",
+      "localImage": "images/product-40.jpg",
+      "fallbackImg": "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?auto=format&fit=crop&w=700&q=85",
+      "desc": "Car Vacuum Cleaner from our Car Gadgets collection. Please check the selected options before placing your order."
+    },
+    {
+      "id": 41,
+      "name": "Minimal Desk Lamp",
+      "category": "Home & Kitchen",
+      "price": 3200,
+      "old": 4000,
+      "rating": 4.9,
+      "img": "images/product-41.jpg",
+      "localImage": "images/product-41.jpg",
+      "fallbackImg": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=700&q=85",
+      "desc": "Minimal Desk Lamp from our Home & Kitchen collection. Please check the selected options before placing your order."
+    },
+    {
+      "id": 42,
+      "name": "Kitchen Organizer",
+      "category": "Home & Kitchen",
+      "price": 2250,
+      "old": 3000,
+      "rating": 4.4,
+      "img": "images/product-42.jpg",
+      "localImage": "images/product-42.jpg",
+      "fallbackImg": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=700&q=85",
+      "desc": "Kitchen Organizer from our Home & Kitchen collection. Please check the selected options before placing your order.",
+      "colors": [
+        "White",
+        "Grey",
+        "Black"
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Ceramic Coffee Mug",
+      "category": "Home & Kitchen",
+      "price": 650,
+      "old": 900,
+      "rating": 4.5,
+      "img": "images/product-43.jpg",
+      "localImage": "images/product-43.jpg",
+      "fallbackImg": "https://images.unsplash.com/photo-1514228742587-6b1558fcca3d?auto=format&fit=crop&w=700&q=85",
+      "desc": "Ceramic Coffee Mug from our Home & Kitchen collection. Please check the selected options before placing your order."
+    },
+    {
+      "id": 44,
+      "name": "Water Bottle",
+      "category": "Home & Kitchen",
+      "price": 850,
+      "old": 1150,
+      "rating": 4.6,
+      "img": "images/product-44.jpg",
+      "localImage": "images/product-44.jpg",
+      "fallbackImg": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&w=700&q=85",
+      "desc": "Water Bottle from our Home & Kitchen collection. Please check the selected options before placing your order."
+    },
+    {
+      "id": 45,
+      "name": "Non-stick Cookware Set",
+      "category": "Home & Kitchen",
+      "price": 4900,
+      "old": 6200,
+      "rating": 4.7,
+      "img": "images/product-45.jpg",
+      "localImage": "images/product-45.jpg",
+      "fallbackImg": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=700&q=85",
+      "desc": "Non-stick Cookware Set from our Home & Kitchen collection. Please check the selected options before placing your order."
+    },
+    {
+      "id": 46,
+      "name": "Decorative Table Vase",
+      "category": "Home & Kitchen",
+      "price": 1250,
+      "old": 1650,
+      "rating": 4.8,
+      "img": "images/product-46.jpg",
+      "localImage": "images/product-46.jpg",
+      "fallbackImg": "https://images.unsplash.com/photo-1578500494198-246f612d3b3d?auto=format&fit=crop&w=700&q=85",
+      "desc": "Decorative Table Vase from our Home & Kitchen collection. Please check the selected options before placing your order."
+    },
+    {
+      "id": 47,
+      "name": "Soft Cushion Set",
+      "category": "Home & Kitchen",
+      "price": 1800,
+      "old": 2400,
+      "rating": 4.9,
+      "img": "images/product-47.jpg",
+      "localImage": "images/product-47.jpg",
+      "fallbackImg": "https://images.unsplash.com/photo-1584100936595-c0654b55a2e2?auto=format&fit=crop&w=700&q=85",
+      "desc": "Soft Cushion Set from our Home & Kitchen collection. Please check the selected options before placing your order.",
+      "colors": [
+        "Beige",
+        "Grey",
+        "Blue"
+      ]
+    },
+    {
+      "id": 48,
+      "name": "Storage Basket",
+      "category": "Home & Kitchen",
+      "price": 950,
+      "old": 1300,
+      "rating": 4.4,
+      "img": "images/product-48.jpg",
+      "localImage": "images/product-48.jpg",
+      "fallbackImg": "https://images.unsplash.com/photo-1595428774223-ef52624120d2?auto=format&fit=crop&w=700&q=85",
+      "desc": "Storage Basket from our Home & Kitchen collection. Please check the selected options before placing your order."
+    },
+    {
+      "id": 49,
+      "name": "Modern Wall Clock",
+      "category": "Home & Kitchen",
+      "price": 1650,
+      "old": 2200,
+      "rating": 4.5,
+      "img": "images/product-49.jpg",
+      "localImage": "images/product-49.jpg",
+      "fallbackImg": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=700&q=85",
+      "desc": "Modern Wall Clock from our Home & Kitchen collection. Please check the selected options before placing your order."
+    },
+    {
+      "id": 50,
+      "name": "Bedside Organizer",
+      "category": "Home & Kitchen",
+      "price": 1150,
+      "old": 1500,
+      "rating": 4.6,
+      "img": "images/product-50.jpg",
+      "localImage": "images/product-50.jpg",
+      "fallbackImg": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=700&q=85",
+      "desc": "Bedside Organizer from our Home & Kitchen collection. Please check the selected options before placing your order."
+    },
+    {
+      "id": 51,
+      "name": "Modern Smartphone",
+      "category": "Smart Gadgets",
+      "price": 28999,
+      "old": 32999,
+      "rating": 4.7,
+      "img": "images/product-51.jpg",
+      "localImage": "images/product-51.jpg",
+      "fallbackImg": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=700&q=85",
+      "desc": "Modern Smartphone from our Smart Gadgets collection. Please check the selected options before placing your order."
+    },
+    {
+      "id": 52,
+      "name": "Wireless Charging Pad",
+      "category": "Smart Gadgets",
+      "price": 1750,
+      "old": 2300,
+      "rating": 4.8,
+      "img": "images/product-52.jpg",
+      "localImage": "images/product-52.jpg",
+      "fallbackImg": "https://images.unsplash.com/photo-1591290619762-c588f7e9a8a4?auto=format&fit=crop&w=700&q=85",
+      "desc": "Wireless Charging Pad from our Smart Gadgets collection. Please check the selected options before placing your order."
+    },
+    {
+      "id": 53,
+      "name": "Portable Power Bank",
+      "category": "Smart Gadgets",
+      "price": 2400,
+      "old": 3200,
+      "rating": 4.9,
+      "img": "images/product-53.jpg",
+      "localImage": "images/product-53.jpg",
+      "fallbackImg": "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?auto=format&fit=crop&w=700&q=85",
+      "desc": "Portable Power Bank from our Smart Gadgets collection. Please check the selected options before placing your order."
+    },
+    {
+      "id": 54,
+      "name": "Tablet Stand",
+      "category": "Smart Gadgets",
+      "price": 950,
+      "old": 1300,
+      "rating": 4.4,
+      "img": "images/product-54.jpg",
+      "localImage": "images/product-54.jpg",
+      "fallbackImg": "https://images.unsplash.com/photo-1589739900243-4b52cd9b104e?auto=format&fit=crop&w=700&q=85",
+      "desc": "Tablet Stand from our Smart Gadgets collection. Please check the selected options before placing your order."
+    },
+    {
+      "id": 55,
+      "name": "USB-C Hub Adapter",
+      "category": "Smart Gadgets",
+      "price": 2200,
+      "old": 2900,
+      "rating": 4.5,
+      "img": "images/product-55.jpg",
+      "localImage": "images/product-55.jpg",
+      "fallbackImg": "https://images.unsplash.com/photo-1625842268584-8f3296236761?auto=format&fit=crop&w=700&q=85",
+      "desc": "USB-C Hub Adapter from our Smart Gadgets collection. Please check the selected options before placing your order."
+    },
+    {
+      "id": 56,
+      "name": "Smart Home Speaker",
+      "category": "Smart Gadgets",
+      "price": 5200,
+      "old": 6800,
+      "rating": 4.6,
+      "img": "images/product-56.jpg",
+      "localImage": "images/product-56.jpg",
+      "fallbackImg": "https://images.unsplash.com/photo-1543512214-318c7553f230?auto=format&fit=crop&w=700&q=85",
+      "desc": "Smart Home Speaker from our Smart Gadgets collection. Please check the selected options before placing your order."
+    },
+    {
+      "id": 57,
+      "name": "Mini Projector",
+      "category": "Smart Gadgets",
+      "price": 12500,
+      "old": 15900,
+      "rating": 4.7,
+      "img": "images/product-57.jpg",
+      "localImage": "images/product-57.jpg",
+      "fallbackImg": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?auto=format&fit=crop&w=700&q=85",
+      "desc": "Mini Projector from our Smart Gadgets collection. Please check the selected options before placing your order."
+    },
+    {
+      "id": 58,
+      "name": "Gaming Controller",
+      "category": "Smart Gadgets",
+      "price": 3900,
+      "old": 5100,
+      "rating": 4.8,
+      "img": "images/product-58.jpg",
+      "localImage": "images/product-58.jpg",
+      "fallbackImg": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?auto=format&fit=crop&w=700&q=85",
+      "desc": "Gaming Controller from our Smart Gadgets collection. Please check the selected options before placing your order.",
+      "colors": [
+        "Black",
+        "White",
+        "Red"
+      ]
+    },
+    {
+      "id": 59,
+      "name": "Wireless Keyboard",
+      "category": "Smart Gadgets",
+      "price": 2600,
+      "old": 3400,
+      "rating": 4.9,
+      "img": "images/product-59.jpg",
+      "localImage": "images/product-59.jpg",
+      "fallbackImg": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=700&q=85",
+      "desc": "Wireless Keyboard from our Smart Gadgets collection. Please check the selected options before placing your order.",
+      "colors": [
+        "Black",
+        "White"
+      ]
+    },
+    {
+      "id": 60,
+      "name": "USB Desk Fan",
+      "category": "Smart Gadgets",
+      "price": 1450,
+      "old": 1900,
+      "rating": 4.4,
+      "img": "images/product-60.jpg",
+      "localImage": "images/product-60.jpg",
+      "fallbackImg": "https://images.unsplash.com/photo-1618941716939-553df3c6c278?auto=format&fit=crop&w=700&q=85",
+      "desc": "USB Desk Fan from our Smart Gadgets collection. Please check the selected options before placing your order."
+    },
+    {
+      "id": 61,
+      "name": "Rose Gold Analog Watch",
+      "category": "Watches",
+      "price": 3250,
+      "old": 4300,
+      "rating": 4.4,
+      "img": "images/product-61.jpg",
+      "localImage": "images/product-61.jpg",
+      "fallbackImg": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=700&q=85",
+      "desc": "Rose Gold Analog Watch from our Watches collection. Select available options before placing your order.",
+      "colors": [
+        "Rose Gold",
+        "Silver",
+        "Black"
+      ]
+    },
+    {
+      "id": 62,
+      "name": "Silicone Watch Strap",
+      "category": "Accessories",
+      "price": 650,
+      "old": 950,
+      "rating": 4.5,
+      "img": "images/product-62.jpg",
+      "localImage": "images/product-62.jpg",
+      "fallbackImg": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?auto=format&fit=crop&w=700&q=85",
+      "desc": "Silicone Watch Strap from our Accessories collection. Select available options before placing your order.",
+      "colors": [
+        "Black",
+        "Blue",
+        "Red"
+      ],
+      "sizes": [
+        "20mm",
+        "22mm"
+      ]
+    },
+    {
+      "id": 63,
+      "name": "Travel Sunglasses Case",
+      "category": "Accessories",
+      "price": 550,
+      "old": 800,
+      "rating": 4.6,
+      "img": "images/product-63.jpg",
+      "localImage": "images/product-63.jpg",
+      "fallbackImg": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=700&q=85",
+      "desc": "Travel Sunglasses Case from our Accessories collection. Select available options before placing your order.",
+      "colors": [
+        "Black",
+        "Brown"
+      ]
+    },
+    {
+      "id": 64,
+      "name": "Makeup Storage Pouch",
+      "category": "Health & Beauty",
+      "price": 750,
+      "old": 1100,
+      "rating": 4.7,
+      "img": "images/product-64.jpg",
+      "localImage": "images/product-64.jpg",
+      "fallbackImg": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=700&q=85",
+      "desc": "Makeup Storage Pouch from our Health & Beauty collection. Select available options before placing your order.",
+      "colors": [
+        "Pink",
+        "Black",
+        "Beige"
+      ]
+    },
+    {
+      "id": 65,
+      "name": "Reusable Facial Headband",
+      "category": "Health & Beauty",
+      "price": 450,
+      "old": 700,
+      "rating": 4.8,
+      "img": "images/product-65.jpg",
+      "localImage": "images/product-65.jpg",
+      "fallbackImg": "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?auto=format&fit=crop&w=700&q=85",
+      "desc": "Reusable Facial Headband from our Health & Beauty collection. Select available options before placing your order.",
+      "colors": [
+        "White",
+        "Pink",
+        "Blue"
+      ]
+    },
+    {
+      "id": 66,
+      "name": "Car Phone Holder",
+      "category": "Car Gadgets",
+      "price": 1250,
+      "old": 1700,
+      "rating": 4.9,
+      "img": "images/product-66.jpg",
+      "localImage": "images/product-66.jpg",
+      "fallbackImg": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&w=700&q=85",
+      "desc": "Car Phone Holder from our Car Gadgets collection. Select available options before placing your order.",
+      "colors": [
+        "Black"
+      ]
+    },
+    {
+      "id": 67,
+      "name": "Car Seat Neck Pillow",
+      "category": "Car Gadgets",
+      "price": 1450,
+      "old": 1950,
+      "rating": 4.4,
+      "img": "images/product-67.jpg",
+      "localImage": "images/product-67.jpg",
+      "fallbackImg": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=700&q=85",
+      "desc": "Car Seat Neck Pillow from our Car Gadgets collection. Select available options before placing your order.",
+      "colors": [
+        "Black",
+        "Grey",
+        "Beige"
+      ]
+    },
+    {
+      "id": 68,
+      "name": "Silicone Kitchen Utensil Set",
+      "category": "Home & Kitchen",
+      "price": 1850,
+      "old": 2450,
+      "rating": 4.5,
+      "img": "images/product-68.jpg",
+      "localImage": "images/product-68.jpg",
+      "fallbackImg": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=700&q=85",
+      "desc": "Silicone Kitchen Utensil Set from our Home & Kitchen collection. Select available options before placing your order.",
+      "colors": [
+        "Black",
+        "Grey",
+        "Red"
+      ]
+    },
+    {
+      "id": 69,
+      "name": "Insulated Travel Tumbler",
+      "category": "Home & Kitchen",
+      "price": 1350,
+      "old": 1800,
+      "rating": 4.6,
+      "img": "images/product-69.jpg",
+      "localImage": "images/product-69.jpg",
+      "fallbackImg": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&w=700&q=85",
+      "desc": "Insulated Travel Tumbler from our Home & Kitchen collection. Select available options before placing your order.",
+      "colors": [
+        "Black",
+        "White",
+        "Pink"
+      ]
+    },
+    {
+      "id": 70,
+      "name": "Foldable Phone Stand",
+      "category": "Smart Gadgets",
+      "price": 550,
+      "old": 850,
+      "rating": 4.7,
+      "img": "images/product-70.jpg",
+      "localImage": "images/product-70.jpg",
+      "fallbackImg": "https://images.unsplash.com/photo-1589739900243-4b52cd9b104e?auto=format&fit=crop&w=700&q=85",
+      "desc": "Foldable Phone Stand from our Smart Gadgets collection. Select available options before placing your order.",
+      "colors": [
+        "Black",
+        "Silver"
+      ]
+    },
+    {
+      "id": 71,
+      "name": "Braided USB-C Cable",
+      "category": "Smart Gadgets",
+      "price": 450,
+      "old": 700,
+      "rating": 4.8,
+      "img": "images/product-71.jpg",
+      "localImage": "images/product-71.jpg",
+      "fallbackImg": "https://images.unsplash.com/photo-1625842268584-8f3296236761?auto=format&fit=crop&w=700&q=85",
+      "desc": "Braided USB-C Cable from our Smart Gadgets collection. Select available options before placing your order.",
+      "colors": [
+        "Black",
+        "White",
+        "Blue"
+      ],
+      "sizes": [
+        "1m",
+        "2m"
+      ]
+    },
+    {
+      "id": 72,
+      "name": "Compact Bluetooth Mouse",
+      "category": "Smart Gadgets",
+      "price": 1650,
+      "old": 2200,
+      "rating": 4.9,
+      "img": "images/product-72.jpg",
+      "localImage": "images/product-72.jpg",
+      "fallbackImg": "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=700&q=85",
+      "desc": "Compact Bluetooth Mouse from our Smart Gadgets collection. Select available options before placing your order.",
+      "colors": [
+        "Black",
+        "White",
+        "Pink"
+      ]
+    }
+  ]
+}
